@@ -1,0 +1,15 @@
+/Users/mason/workspace/adventure-quest/bin/Debug/net5.0/adventure-quest.deps.json
+/Users/mason/workspace/adventure-quest/bin/Debug/net5.0/adventure-quest.runtimeconfig.json
+/Users/mason/workspace/adventure-quest/bin/Debug/net5.0/adventure-quest.runtimeconfig.dev.json
+/Users/mason/workspace/adventure-quest/bin/Debug/net5.0/adventure-quest.dll
+/Users/mason/workspace/adventure-quest/bin/Debug/net5.0/ref/adventure-quest.dll
+/Users/mason/workspace/adventure-quest/bin/Debug/net5.0/adventure-quest.pdb
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/adventure-quest.csproj.AssemblyReference.cache
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/adventure-quest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/adventure-quest.AssemblyInfoInputs.cache
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/adventure-quest.AssemblyInfo.cs
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/adventure-quest.csproj.CoreCompileInputs.cache
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/adventure-quest.dll
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/ref/adventure-quest.dll
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/adventure-quest.pdb
+/Users/mason/workspace/adventure-quest/obj/Debug/net5.0/adventure-quest.genruntimeconfig.cache
